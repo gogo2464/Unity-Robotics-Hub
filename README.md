@@ -9,7 +9,7 @@
 ![ROS](https://img.shields.io/badge/ros2-foxy-brightgreen)
 ![Unity](https://img.shields.io/badge/unity-2020.2+-brightgreen)
 
-This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
+This is a central repository for any tools, tutorials, resources, and documentation for robotic simulation in Unity.
 
 > The contents of this repository are in active development. Its features and API are subject to significant change as development progresses.
 
